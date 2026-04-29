@@ -1,0 +1,27 @@
+{
+  "item.travelmenu.travel_compass": "Bússola de viagem",
+
+  "travel.menu.close": "Fechar",
+  "travel.menu.title": "Menu de viagem",
+
+  "travel.chat.invalid": "Destino inválido",
+  "travel.chat.nomoney": "Você não tem moedas suficientes",
+  "travel.chat.teleport": "Viajando para %s (-%s moedas)",
+
+  "travel.destination.defense": "Área de Defesa",
+  "travel.destination.defense.desc": "A zona de defesa contra monstros",
+  "travel.destination.defense_zone": "Zona de Defesa",
+  "travel.destination.defense_zone.desc": "A área principal preparada para se defender de ataques inimigos",
+  "travel.destination.forest": "Floresta",
+  "travel.destination.forest.desc": "Uma área florestal cheia de recursos",
+  "travel.destination.lake": "Lago",
+  "travel.destination.lake.desc": "Um lago tranquilo para pescar",
+  "travel.destination.market": "Mercado",
+  "travel.destination.market.desc": "Teleporte-se para o mercado central",
+  "travel.destination.mining_area": "Área de Mineração",
+  "travel.destination.mining_area.desc": "Uma área de mineração com cavernas ricas em minérios e pontos de coleta",
+
+  "travel.tooltip.click": "Clique para viajar",
+  "travel.tooltip.cost": "Custo: %s moedas",
+  "travel.tooltip.nomoney": "Moedas insuficientes"
+}

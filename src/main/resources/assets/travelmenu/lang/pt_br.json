@@ -1,0 +1,23 @@
+{
+  "item.travelmenu.travel_compass": "Bússola de Viagem",
+  "travel.menu.title": "Menu de Viagem",
+  "travel.menu.close": "Fechar",
+
+  "travel.destination.market": "Mercado",
+  "travel.destination.forest": "Floresta",
+  "travel.destination.lake": "Lago",
+  "travel.destination.defense": "Área de Defesa",
+
+  "travel.tooltip.cost": "Custo: %s moedas",
+  "travel.tooltip.click": "Clique para viajar",
+  "travel.tooltip.nomoney": "Dinheiro insuficiente",
+
+  "travel.chat.teleport": "Viajando para %s (-%s moedas)",
+  "travel.chat.nomoney": "Você não tem dinheiro suficiente",
+  "travel.chat.invalid": "Destino inválido",
+
+  "travel.destination.market.desc": "Teletransportar para o mercado central",
+  "travel.destination.forest.desc": "Uma área florestal cheia de recursos",
+  "travel.destination.lake.desc": "Um lago de pesca tranquilo",
+  "travel.destination.defense.desc": "A zona de defesa contra monstros"
+}

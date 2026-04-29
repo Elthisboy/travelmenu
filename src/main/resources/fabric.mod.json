@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "travelmenu",
+	"version": "${version}",
+	"name": "travelmenu",
+	"description": "travel menu!",
+	"authors": [
+		"El_this_boy!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/travelmenu/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.elthisboy.travelmenu.Travelmenu"
+		],
+		"client": [
+			"com.elthisboy.travelmenu.TravelmenuClient"
+		],
+		"fabric-datagen": [
+			"com.elthisboy.travelmenu.TravelmenuDataGenerator"
+		]
+	},
+	"mixins": [
+		"travelmenu.mixins.json",
+		{
+			"config": "travelmenu.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

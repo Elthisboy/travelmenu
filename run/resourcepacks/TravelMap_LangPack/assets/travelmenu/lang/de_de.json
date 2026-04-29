@@ -1,0 +1,27 @@
+{
+  "item.travelmenu.travel_compass": "Reisekompass",
+
+  "travel.menu.close": "Schließen",
+  "travel.menu.title": "Reisemenü",
+
+  "travel.chat.invalid": "Ungültiges Ziel",
+  "travel.chat.nomoney": "Du hast nicht genug Geld",
+  "travel.chat.teleport": "Reise nach %s (-%s Münzen)",
+
+  "travel.destination.defense": "Verteidigungsbereich",
+  "travel.destination.defense.desc": "Die Verteidigungszone gegen Monster",
+  "travel.destination.defense_zone": "Verteidigungszone",
+  "travel.destination.defense_zone.desc": "Der Hauptbereich zur Verteidigung gegen feindliche Angriffe",
+  "travel.destination.forest": "Wald",
+  "travel.destination.forest.desc": "Ein Waldgebiet voller Ressourcen",
+  "travel.destination.lake": "See",
+  "travel.destination.lake.desc": "Ein ruhiger See zum Angeln",
+  "travel.destination.market": "Markt",
+  "travel.destination.market.desc": "Teleportiere dich zum zentralen Markt",
+  "travel.destination.mining_area": "Bergbaugebiet",
+  "travel.destination.mining_area.desc": "Ein Bergbaugebiet mit erzreichen Höhlen und Sammelstellen",
+
+  "travel.tooltip.click": "Klicke zum Reisen",
+  "travel.tooltip.cost": "Kosten: %s Münzen",
+  "travel.tooltip.nomoney": "Nicht genug Geld"
+}

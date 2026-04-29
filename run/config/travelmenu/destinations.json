@@ -1,0 +1,38 @@
+{
+  "destinations": [
+    {
+      "id": "market",
+      "icon": "minecraft:emerald",
+      "x": 100,
+      "y": 70,
+      "z": -50,
+      "cost": 50
+    },
+    {
+      "id": "forest",
+      "icon": "minecraft:oak_sapling",
+      "x": 250,
+      "y": 70,
+      "z": 120,
+      "cost": 75
+    },
+    {
+      "id": "defense_zone",
+      "icon": "minecraft:stone_bricks",
+      "x": -150,
+      "y": 80,
+      "z": 200,
+      "cost": 100
+    },
+    {
+      "id": "mining_area",
+      "icon": "minecraft:iron_pickaxe",
+      "x": 300,
+      "y": 65,
+      "z": -100,
+      "cost": 150
+    }
+  ]
+}
+
+

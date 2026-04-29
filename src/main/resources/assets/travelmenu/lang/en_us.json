@@ -1,0 +1,24 @@
+{
+  "item.travelmenu.travel_compass": "Travel Compass",
+  "travel.menu.title": "Travel Menu",
+  "travel.menu.close": "Close",
+
+  "travel.destination.market": "Market",
+  "travel.destination.forest": "Forest",
+  "travel.destination.lake": "Lake",
+  "travel.destination.defense": "Defense Area",
+
+  "travel.tooltip.cost": "Cost: %s coins",
+  "travel.tooltip.click": "Click to travel",
+  "travel.tooltip.nomoney": "Not enough money",
+
+  "travel.chat.teleport": "Traveling to %s (-%s coins)",
+  "travel.chat.nomoney": "You don't have enough money",
+  "travel.chat.invalid": "Invalid destination",
+
+
+  "travel.destination.market.desc": "Teleport to the central market",
+  "travel.destination.forest.desc": "A forest area full of resources",
+  "travel.destination.lake.desc": "A peaceful fishing lake",
+  "travel.destination.defense.desc": "The defense zone against mobs"
+}

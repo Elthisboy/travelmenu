@@ -1,0 +1,26 @@
+/give @p travelmenu:travel_compass
+/scoreboard objectives add money dummy
+/scoreboard players add @p money 10
+/scoreboard objectives add money dummy
+/scoreboard players add @p money 100
+/scoreboard objectives setdisplay sidebar money
+/scoreboard players add @p money 1000
+/give @p travelmenu:travel_compass
+/scoreboard players add @p money 1000
+/give @p travelmenu:travel_compass
+/scoreboard players add @p money 1000
+/updateDestinations
+/time set day
+/updateDestinations
+/scoreboard players add @p money 1000
+/scoreboard players reset
+/scoreboard players reset @p
+/scoreboard players reset Player613
+/scoreboard players reset Player0
+/scoreboard players reset Player114
+/scoreboard players reset Player163
+/scoreboard players reset Player613
+/scoreboard players reset Player675
+/scoreboard players reset Player466
+/scoreboard players add @p money 1000
+/time set day

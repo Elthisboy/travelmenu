@@ -1,0 +1,23 @@
+{
+  "item.travelmenu.travel_compass": "Reisekompass",
+  "travel.menu.title": "Reisemenü",
+  "travel.menu.close": "Schließen",
+
+  "travel.destination.market": "Marktplatz",
+  "travel.destination.forest": "Wald",
+  "travel.destination.lake": "See",
+  "travel.destination.defense": "Verteidigungszone",
+
+  "travel.tooltip.cost": "Kosten: %s Münzen",
+  "travel.tooltip.click": "Klicken zum Reisen",
+  "travel.tooltip.nomoney": "Nicht genug Geld",
+
+  "travel.chat.teleport": "Reise nach %s (-%s Münzen)",
+  "travel.chat.nomoney": "Du hast nicht genug Geld",
+  "travel.chat.invalid": "Ungültiges Ziel",
+
+  "travel.destination.market.desc": "Teleport zum zentralen Marktplatz",
+  "travel.destination.forest.desc": "Ein Waldgebiet voller Ressourcen",
+  "travel.destination.lake.desc": "Ein friedlicher Angelsee",
+  "travel.destination.defense.desc": "Die Verteidigungszone gegen Monster"
+}

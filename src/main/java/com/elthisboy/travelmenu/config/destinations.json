@@ -1,0 +1,34 @@
+{
+  "destinations": [
+    {
+      "id": "market",
+      "name": "travel.destination.market",
+      "description": "travel.destination.market.desc",
+      "icon": "minecraft:emerald",
+      "x": 100,
+      "y": 70,
+      "z": -50,
+      "cost": 0
+    },
+    {
+      "id": "forest",
+      "name": "travel.destination.forest",
+      "description": "travel.destination.forest.desc",
+      "icon": "minecraft:oak_sapling",
+      "x": 200,
+      "y": 70,
+      "z": -80,
+      "cost": 10
+    },
+    {
+      "id": "lake",
+      "name": "travel.destination.lake",
+      "description": "travel.destination.lake.desc",
+      "icon": "minecraft:cod",
+      "x": 300,
+      "y": 70,
+      "z": -120,
+      "cost": 20
+    }
+  ]
+}
