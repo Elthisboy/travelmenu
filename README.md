@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** travelmenu
 - **Mod ID:** `travelmenu`
-- **Version:** `1.0.0` (Resolved at build time)
+- **Version:** `1.0.0`
 
 ## Technical Summary
 The **travelmenu** mod provides a GUI-driven fast-travel system tailored for custom maps. The core functionality centers around bidirectional network payloads (`OpenTravelMenuPayload` [S2C] and `TeleportRequestPayload` [C2S]). It allows players to open a client-side screen to view a list of configured destinations. Upon selection, a request is sent to the server to validate the teleportation, checking against an optional travel cost managed through an integrated economy system (`com.elthisboy.travelmenu.economy`), before finally executing the coordinate transfer.
